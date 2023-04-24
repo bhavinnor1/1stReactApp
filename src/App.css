@@ -283,6 +283,9 @@ input[type=submit] {
 }
 
 @media (max-width:800px) {
+  .sub-form-container{
+    width:90%;
+  }
   .grid3 {
     grid-template-columns: auto;
   }
